@@ -10,6 +10,7 @@
 - 🔭 I’m currently working on **disaster management**
 
 - 🤝 I’m looking for help with **chat GPT**
+- I'm a **Football player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
