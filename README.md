@@ -17,7 +17,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3>- A passionate Front-end developer</h3>
 <h3>- Currently learning javascript</h3>
-<h3>- Personal website [link](https://www.jerlin-shabi.github.io)</h3>
+<h3>- Personal website [link](https://www.john-shalamona.github.io)</h3>
 
  
 
@@ -57,11 +57,10 @@
 
 
 <br>	
-<a target="_blank" href="[https://www.linkedin.com/in/birunthaban-sarventhiran/](https://www.linkedin.com/in/jerlin-shabi-15201129a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:jerlinshabi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://instagram.com/@js__shabi"><img src="https://img.shields.io/badge/-Instagram-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/S_Birunthaban"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
+<a target="_blank" href="[https://www.linkedin.com/in/birunthaban-sarventhiran/](https://www.linkedin.com/in/john-shalamon-527a5b285/)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:johnshalamon13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://instagram.com/@mr__proffessional"><img src="https://img.shields.io/badge/-Instagram-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
