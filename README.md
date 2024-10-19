@@ -4,10 +4,13 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <div>
-    <div align=center>
-        <img src="https://github.com/jerlin-shabi/jerlin-shabi.github.io/blob/main/assets/img/favicon%20avator.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-    <div align=center>
+    <p align="center">
+  <img alt="Let's Code" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="26%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Code Awesome Shit" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45%">
+</p>
+
+<div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+John+Shalamon+%F0%9F%91%8B;Computer+Science+Student;Front-End+Developer;Problem+Solver;" alt="Headline" />
     </div>
 
