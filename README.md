@@ -1,4 +1,7 @@
-<p align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+<!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif"><p align="center">
   <img alt="Let's Code" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="26%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Code Awesome Shit" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="45%">
