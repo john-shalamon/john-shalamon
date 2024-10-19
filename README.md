@@ -69,7 +69,7 @@
 <h1>My GitHub Stats</h1>
 
 
-![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerlin-shabi&show_icons=true&count_private=true&theme=great-gatsby) </br>
+![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-shalamon&show_icons=true&count_private=true&theme=great-gatsby) </br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -84,7 +84,7 @@
 </div>
 <div style="display:grid;align-items:center;justify-content:center">
  
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerlin-shabi&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-shalamon&layout=compact&theme=gotham&langs_count=8"/>
 </div>
 
 <!-- GIF FOOTER -->
@@ -92,13 +92,5 @@
 
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/john-shalamon"><img src="https://github-readme-stats.vercel.app/api?username=john-shalamon&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&show_icons=true" alt="john-shalamon's GitHub stats" /></a>
-
-<a href="http://www.github.com/john-shalamon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=john-shalamon&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/john-shalamon"><img src="https://github-readme-activity-graph.vercel.app/graph?username=john-shalamon&bg_color=1c1917&color=ffffff&line=14b8a6&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/john-shalamon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-shalamon&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=14b8a6&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
