@@ -96,6 +96,7 @@
 <div style="display:grid;align-items:center;justify-content:center">
   <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-shalamon&layout=compact&theme=gotham&langs_count=8"/>
 </div>
+<a href="http://www.github.com/infance-tony"><img src="https://github-readme-activity-graph.vercel.app/graph?username=john-shalamon&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
